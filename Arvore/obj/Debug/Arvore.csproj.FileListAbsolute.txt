@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Workspace\Arvore\Arvore\obj\Debug\Arvore.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Workspace\Arvore\Arvore\obj\Debug\Arvore.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Workspace\Arvore\Arvore\bin\Debug\Arvore.exe.config
+C:\Users\User\Documents\Workspace\Arvore\Arvore\bin\Debug\Arvore.exe
+C:\Users\User\Documents\Workspace\Arvore\Arvore\bin\Debug\Arvore.pdb
+C:\Users\User\Documents\Workspace\Arvore\Arvore\obj\Debug\Arvore.exe
+C:\Users\User\Documents\Workspace\Arvore\Arvore\obj\Debug\Arvore.pdb
